@@ -1,4 +1,4 @@
-#Práctica| Mi primera aplicación con NPM
+# Práctica| Mi primera aplicación con NPM
 
 This program is a Node.js aplication introductory to the use of the [expressjs](https://expressjs.com/) framework to generate a basic web app development file structure and to the implementation of the [RESTful](https://en.wikipedia.org/wiki/REST) arquitecture style for web development as well.
 
@@ -27,6 +27,11 @@ npm install
 ```
 
 ## Running the tests
+
+To run the server, enter
+```
+npm run dev
+``` 
 
 Use [Postman](https://www.postman.com/) to test the HTTP methods mention above as shown in the following pictures
 
