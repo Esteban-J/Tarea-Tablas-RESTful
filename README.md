@@ -4,21 +4,19 @@ This program is a Node.js aplication introductory to the use of the [expressjs](
 
 The application makes use of HTTP methods to recieve data by the net requests and use such data to do simple math operations.
 
-POST => multiply n1 and n2
-GET => sum n1 and n2
-PUT => divide n1 and n2
-PATCH => power n1 by n2
-DELETE => substraction n1 and n2
+- **POST** => multiply n1 and n2
+- **GET** => sum n1 and n2
+- **PUT** => divide n1 and n2
+- **PATCH** => power n1 by n2
+- **DELETE** => substraction n1 and n2
 
 ## Getting Started
 
-To get a copy if this project you can click the following link to download the source files
-https://github.com/Esteban-J/Tarea-Tablas-RESTful/archive/refs/heads/main.zip
+To get a copy if this project you can click the following link to [download](https://github.com/Esteban-J/Tarea-Tablas-RESTful/archive/refs/heads/main.zip) the source files
 
 ### Prerequisites
 
 To run and test this code you must have [NodeJS](https://nodejs.org/en/download/package-manager) install as well as [Postman](https://www.postman.com/downloads/) on your local machine. 
-
 
 ### Installing
 
@@ -30,7 +28,23 @@ npm install
 
 ## Running the tests
 
-Use Postman to test the HTTP methods mention above as shown in the following pictures
+Use [Postman](https://www.postman.com/) to test the HTTP methods mention above as shown in the following pictures
+
+**GET**
+
+![image](https://github.com/user-attachments/assets/9a368171-4a3a-4197-af10-c562d494b726)
+
+**POST**
+![image](https://github.com/user-attachments/assets/64b03785-4999-405c-b6d6-f9b0272e1869)
+
+**PUT**
+![image](https://github.com/user-attachments/assets/98115275-23e2-4141-9009-a797cb813176)
+
+**PATCH**
+![image](https://github.com/user-attachments/assets/bef4ebd9-22b3-452b-b358-f5640e407cd7)
+
+**DELETE**
+![Uploading image.png…]()
 
 
 ## Built With
