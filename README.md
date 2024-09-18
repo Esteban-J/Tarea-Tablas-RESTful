@@ -1,6 +1,6 @@
-# Práctica| Mi primera aplicación con NPM
+# Tablas RESTful
 
-This program is a Node.js aplication introductory to the use of the [expressjs](https://expressjs.com/) framework to generate a basic web app development file structure and to the implementation of the [RESTful](https://en.wikipedia.org/wiki/REST) arquitecture style for web development as well.
+This program is a Node.js aplication introductory to the use of the [ExpressJs](https://expressjs.com/) framework to generate a basic web app development file structure and to the implementation of the [RESTful](https://en.wikipedia.org/wiki/REST) arquitecture style for web development.
 
 The application makes use of HTTP methods to recieve data by the net requests and use such data to do simple math operations.
 
@@ -28,7 +28,7 @@ npm install
 
 ## Running the tests
 
-To run the server, enter
+To run the server, enter th following:
 ```
 npm run dev
 ``` 
