@@ -1,0 +1,53 @@
+#Práctica| Mi primera aplicación con NPM
+
+This program is a Node.js aplication introductory to the use of the [expressjs](https://expressjs.com/) framework to generate a basic web app development file structure and to the implementation of the [RESTful](https://en.wikipedia.org/wiki/REST) arquitecture style for web development as well.
+
+The application makes use of HTTP methods to recieve data by the net requests and use such data to do simple math operations.
+
+POST => multiply n1 and n2
+GET => sum n1 and n2
+PUT => divide n1 and n2
+PATCH => power n1 by n2
+DELETE => substraction n1 and n2
+
+## Getting Started
+
+To get a copy if this project you can click the following link to download the source files
+https://github.com/Esteban-J/Tarea-Tablas-RESTful/archive/refs/heads/main.zip
+
+### Prerequisites
+
+To run and test this code you must have [NodeJS](https://nodejs.org/en/download/package-manager) install as well as [Postman](https://www.postman.com/downloads/) on your local machine. 
+
+
+### Installing
+
+Once having installed node, run the following command on your root directory of the project to download the node_modules (dependencies) needed.
+
+```
+npm install
+```
+
+## Running the tests
+
+Use Postman to test the HTTP methods mention above as shown in the following pictures
+
+
+## Built With
+
+* [NPM](https://www.npmjs.com/) - Dependency Management
+* [ExpressJs](https://expressjs.com/) - Framework used
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Esteban-J/Practica-Mi-primera-aplicacion-con-NPM/tags). 
+
+## Authors
+
+* **GERARDO ESTEBAN JURADO CARRERA**
+
+
+## Acknowledgments
+
+* LUIS ANTONIO RAMIREZ MARTINEZ
+
